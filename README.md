@@ -11,7 +11,7 @@
 
 Olá, me chamo **Caíque Quaresma Silva**, e moro em São Paulo, Brasil. Sou formado em Matemática Aplicada e atualmente estudo **Desenvolvimento Web na Trybe** 🚀. 
 
-  <img align="right" alt="GIF" src="https://media1.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif?cid=ecf05e47bjkcvf8au73hulz2spzncxsacmjieu7tir9bzs1k&rid=giphy.gif&ct=g" width="400px" />
+  <img align="right" alt="gif" src="https://media1.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif?cid=ecf05e47bjkcvf8au73hulz2spzncxsacmjieu7tir9bzs1k&rid=giphy.gif&ct=g" width="400px" />
 
 **Meus interesses pessoais:**
 
@@ -37,7 +37,7 @@ Olá, me chamo **Caíque Quaresma Silva**, e moro em São Paulo, Brasil. Sou for
 
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="nodejs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
@@ -46,16 +46,12 @@ Olá, me chamo **Caíque Quaresma Silva**, e moro em São Paulo, Brasil. Sou for
 
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=caiquequaresmasilva&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="caiquequaresmasilva" />
+    <img src="https://github-readme-stats.vercel.app/api?username=caiquequaresmasilva" alt="caiquequaresmasilva" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquequaresmasilva&layout=compact&theme=graywhite&title_color=268bd2" alt="caiquequaresmasilva" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquequaresmasilva" alt="caiquequaresmasilva" />
 </p>
 
 <br />
-<br />
-<br />
-<br />
-
 
 ⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
