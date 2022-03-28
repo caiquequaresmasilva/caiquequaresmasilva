@@ -16,8 +16,11 @@ Olá, me chamo **Caíque Quaresma Silva**, e moro em São Paulo, Brasil. Sou for
 **Meus interesses pessoais:**
 
 - Tenho interesse em trabalhar como desenvolvedor Backend;
+
 - Quero ajudar na construção de ferramentas que gerem um impacto positivo na sociedade;
+
 - Pretendo aprender mais ferramentas além das vistas no curso, como AWS, OAuth, Redis e TypeORM; 
+
 - Para entrar em contato, envie um email para **caique.quaresma@gmail.com**;
 
 <br />
