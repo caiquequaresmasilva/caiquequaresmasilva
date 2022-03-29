@@ -47,13 +47,10 @@ Olá, me chamo **Caíque Quaresma Silva**, e moro em São Paulo, Brasil. Sou for
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
 </p>
 
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=caiquequaresmasilva" alt="caiquequaresmasilva" />
-</p>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquequaresmasilva" alt="caiquequaresmasilva" />
-</p>
+<div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caiquequaresmasilva&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquequaresmasilva&layout=compact&theme=dracula"/>
+</div>
 
 <br />
 
